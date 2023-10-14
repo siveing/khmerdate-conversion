@@ -1,9 +1,8 @@
 declare module "khmerdate-conversion" {
-   
     /**
      * 
-     * @param username string
+     * @param date Date | string
+     * @param format? string
      */
-    export function getMessage(username: string): string;
-
+    export function KhmerDateConversion(date: Date | string, format?: string): string;
 }
