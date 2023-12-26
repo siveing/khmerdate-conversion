@@ -1,6 +1,6 @@
 {
   "name": "khmerdate-conversion",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -14,8 +14,11 @@
     "url": "git+https://github.com/siveing/khmerdate-conversion.git"
   },
   "keywords": [
-    "sample",
-    "rollup"
+    "converter",
+    "khmer date",
+    "conversion",
+    "lunar date khmer",
+    "khmer date convert"
   ],
   "files": [
     "dist",
